@@ -10,16 +10,12 @@
 
 export function getAverage(array) {
   // Your code goes here...
-<<<<<<< HEAD
   let sum = 0;
   for(const value of array) {
     sum += value;
   }
 
   return sum / array.length;
-=======
-
->>>>>>> 25cb0db2a813735d02cdc541c8767498bbf211d7
 }
 
 
