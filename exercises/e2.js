@@ -4,6 +4,7 @@
 
 export function getNumbersWithSquareRoots(max) {
   // Your code goes here...
+<<<<<<< HEAD
   let result = [];
 
   for(var i = 0; i < max; i++) {
@@ -14,6 +15,8 @@ export function getNumbersWithSquareRoots(max) {
   }
 
   return result;
+=======
+>>>>>>> 25cb0db2a813735d02cdc541c8767498bbf211d7
 
 }
 

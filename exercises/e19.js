@@ -6,11 +6,15 @@
 
 export function reverseArray(array) {
   // Your code goes here...
+<<<<<<< HEAD
   let result = [];
   for(var i = array.length - 1; i >= 0; i--) {
     result.push(array[i]);
   }
   return result;
+=======
+
+>>>>>>> 25cb0db2a813735d02cdc541c8767498bbf211d7
 }
 
 
